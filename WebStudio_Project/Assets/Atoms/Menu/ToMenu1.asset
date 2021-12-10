@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f796f0a47da0e421cb954ef7aa235812, type: 3}
+  m_Name: ToMenu1
+  m_EditorClassIdentifier: 
+  _developerDescription: 
+  _variable: {fileID: 11400000, guid: d9d7ad7416dbd324a88622fb3c170468, type: 2}
+  _value:
+    _usage: 1
+    _value: 
+    _constant: {fileID: 11400000, guid: 5b00c78782a3f764589a3e4cdd506489, type: 2}
+    _variable: {fileID: 0}
+    _variableInstancer: {fileID: 0}
